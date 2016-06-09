@@ -16,4 +16,4 @@ Pobieranie pliku za pomoca klasy IntentService\n
 Aktualny progres wysyłany za pomocą receivera.\n
 Brak możliwosci przerwania pobierania
 
-Filmik youtube ukazujący aplikację https://www.youtube.com/embed/TqcKyR9u640
+Filmik youtube z aplikacją [![VIDEO HERE](https://img.youtube.com/vi/https://youtu.be/TqcKyR9u640/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/TqcKyR9u640)
