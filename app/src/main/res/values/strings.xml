@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DownloadServicesProject</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_open">Open</string>
+    <string name="action_ok">OK</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_download">Download</string>
+    <string name="action_download_cancel">Cancel download</string>
+
+    <string name="result_delete_file">File deleted</string>
+    <string name="result_download_success">Download success</string>
+    <string name="result_download_canceled">Download canceled</string>
+
+    <string name="error_no_internet">Internet not available, Cross check your internet connectivity and try again</string>
+    <string name="error_mime_type_invalid">Mime type or url invalid.</string>
+    <string name="error_start_intent">Install apllication for this file.</string>
+
+    <string name="url">file url</string>
+
+
+    <!--http://fzs.sve-mo.ba/sites/default/files/dokumenti-vijesti/sample.pdf-->
+    <string name="example_url">http://goes.gsfc.nasa.gov/pub/goes/080913.ike.poster.jpg</string>
+    <!--<string name="example_url">http://weknowyourdreams.com/images/space/space-09.jpg</string>-->
+    <string name="example_text_row">To jest przykładowy tekst</string>
+    <string name="service_content">Pobieranie pliku za pomoca klasy Service\n
+    Aktualny progres wysyłany za pomocą broadcastlocalmenagera.\n
+    Możliwość przerwania pobierania pliku.\n
+    Gdy połączenie zostanie utracone pobierany plik zostanie usunięty.\n
+    Wspierane rozszerzenia "image/png", "image/jpeg", "audio/mpeg", "text/plain", "application/pdf"</string>
+    <string name="intent_service_content">Pobieranie pliku za pomoca klasy IntentService\n
+    Aktualny progres wysyłany za pomocą receivera.\n
+        Brak możliwosci przerwania pobierania"</string>
+
+</resources>

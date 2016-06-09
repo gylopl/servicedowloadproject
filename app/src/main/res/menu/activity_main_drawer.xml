@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_service_download"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Service Download" />
+        <item
+            android:id="@+id/nav_intent_service_download"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="IntentService Receiver Download" />
+        <item
+            android:id="@+id/nav_bound_service"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Bound service" />
+        <item
+            android:id="@+id/nav_files"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Downloads" />
+    </group>
+
+</menu>
