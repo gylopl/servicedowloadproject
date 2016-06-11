@@ -1,7 +1,7 @@
 ﻿# servicedowloadproject
 
 Aplikacja wykonana w celach edukacyjnych.
-Zamierzeniem bylo zrozumienie działania serwisów i wysyłania informacji z serwisu do UI, adaptery i inne do poprawy
+Zamierzeniem bylo zrozumienie działania serwisów i wysyłania informacji z serwisu do UI, adaptery i inne do poprawy, clean code starałem się uzyskać w https://github.com/gylopl/voxpopuli-glosspoleczenstwa
 
 
 [DownloadService](../master/app/src/main/java/makdroid/servicesproject/services/DownloadService.java)
